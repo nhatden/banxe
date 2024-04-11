@@ -1,0 +1,93 @@
+.logo{
+    margin: 10px;
+}
+ul{
+    list-style: none;
+}
+/* li{
+    float: left;
+} */
+.sdt{
+    float: right;
+    color: #4da6df;
+    margin: 20px;
+    font-weight: bold;
+    font-size: 18px;
+}
+.menu {
+    margin: 30px;
+    float: right;
+    display: flex;
+}
+/* .menu>ul>li{
+    margin: 15px 17px;
+} */
+.menu>li>a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    display: block;
+    padding: 8px 15px;
+}
+.menu>li:hover a{
+    color: white;
+    background: #4da6df;
+    
+}
+.tintuc{
+    margin-top: 40px;
+    line-height: 35px;
+}
+h3{
+    color:#4da6df;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+h4{
+    color: #4da6df;
+    font-size: 22px;
+}
+.menu2>ul{
+    list-style: circle;
+}
+.menu2>ul>li>a{
+    text-decoration: none;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.menu2>ul>li:hover a{
+    color: #4da6df;
+}
+.xanh{
+    width: auto;
+    height: 520px ;
+    background-image: url(/images/nen.png);
+    background-repeat: repeat-x repeat-y;
+}
+.button{
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+.button-text{
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    padding: 5px 100px;
+    background-color: #00a3e4;
+    font-size: 18px;   
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.coso{
+    margin-top: 40px;
+}
+.footer{
+    background-color: #00a3e4;
+    margin-top: 40px;
+}
+.logoft{
+    text-align: center;
+    padding: 15px;
+}

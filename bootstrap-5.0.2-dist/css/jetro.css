@@ -1,0 +1,38 @@
+.logo { margin: 10px;}
+
+ul {list-style: none;}
+
+li {float: left;}
+
+.menu ul {margin-top: 40px;}
+
+.menu>ul>li {
+padding: 20px 17px;
+}
+
+.menu>ul>li>a {
+    text-transform: uppercase;
+    color: black;
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+.menu>ul>li:hover a {
+    text-decoration: none;
+    border-bottom: 2px solid pink;
+}
+.tintuc{
+    margin-top: 40px;
+}
+h3{
+    color:#df854d;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+h3{
+    color:#df854d;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.aa{background-color:#df854d; color:white; float:left; padding:10px; margin:0px;}
